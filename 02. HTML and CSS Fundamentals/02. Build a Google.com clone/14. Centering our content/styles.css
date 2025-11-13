@@ -17,3 +17,8 @@ Center the logo and the search field.
     display: block;
     width: 400px;
 }
+
+.logo-img, .search-input {
+    margin-left: auto;
+    margin-right: auto;
+}
